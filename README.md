@@ -28,7 +28,7 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 My Projects
 
 ### 📝 ExamEase
 AI-Powered Online Examination System
@@ -69,7 +69,7 @@ AI-Powered Online Examination System
 
 ## 🌐 Connect With Me
 
-- LinkedIn: Add Your LinkedIn URL
+- LinkedIn: https://www.linkedin.com/in/karan-patel-3a271423a/
 - GitHub: https://github.com/Karan11-tech
 
 ---
