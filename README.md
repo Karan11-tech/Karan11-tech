@@ -16,7 +16,7 @@
 - 🌱 Currently learning Android Development
 - 🚀 Built an AI-Powered Online Examination System (**ExamEase**)
 - 📚 Interested in Web Development, AI Integration & Mobile Apps
-- ⚡ Goal: Become a Software Engineer
+
 
 ---
 
